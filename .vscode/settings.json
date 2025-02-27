@@ -1,0 +1,6 @@
+{
+    "sqltools.connections": [],
+    "dataworkspace.excludedProjects": [
+        "Fetch_Internship/Fetch_Internship.sqlproj"
+    ]
+}
